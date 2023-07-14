@@ -22,4 +22,4 @@ This project is a Docter Application that allows patient create account and book
  - Models :- Model classes are defined here.  classes like  patient, Docter ,Appointment etc. defined here.
  
 ## Project Summery
- This project is a Docter Appointment Application that allows users to signup/signin account,book appointments, and  search Docters based on various criteria such as MBBS, MD. Admin can Delete the account of users . users also can visit the app without login. It is built using Spring Boot, MYSql Database. The application provides a simple and user-friendly interface for patient to find the correct Docters and book appointment for them.
+This project is a Doctor Appointment Application that allows users to signup/signin account,book appointments, and search Doctors based on various criteria such as MBBS, MD. Admin can Delete the account of users . users also can visit the app without login. It is built using Spring Boot, MYSql Database. The application provides a simple and user-friendly interface for patients to find the correct Doctors and book appointments for them.
